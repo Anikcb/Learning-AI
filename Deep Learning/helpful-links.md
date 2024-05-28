@@ -3,3 +3,4 @@
 - [A list of cost functions used in neural networks, alongside applications](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)<br>
 - [Deep Learning A-Z Tips and Extra Resources](https://sdsclub.com/deep-learning-a-z-a-z/)<br>
 - [Deep Learning A-Z™: Download Practice Datasets](https://www.tfcertification.com/pages/deep-learning)<br>
+- [ChatGPT for Data Science & Machine Learning: 5 Use Cases](https://www.youtube.com/watch?v=Bw7pAYv6iaM&ab_channel=SuperDataScience)<br>
