@@ -1,3 +1,4 @@
+## List of Links
 - [Udemy Course](https://www.udemy.com/course/deeplearning)<br>
 - [A Neural Network in 13 lines of Python (Part 2 - Gradient Descent)](https://iamtrask.github.io/2015/07/27/python-network-part2/)<br>
 - [A list of cost functions used in neural networks, alongside applications](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)<br>
