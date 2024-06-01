@@ -17,5 +17,6 @@ This course didn't explain in depth knowledge but the basic flow of Neural netwo
   
 ## Gradient Decent
 Gradient descent is an optimization algorithm that's used when training a machine learning model. It's based on a [convex Function](https://youtu.be/7QmGj1_i3MU?si=orUYsv2TKb8tUs54) and tweaks its parameters iteratively to minimize a given function to its local minimum.
-- [Vanishing Gradient Problem](https://www.engati.com/glossary/vanishing-gradient-problem#:~:text=Vanishing%20gradient%20problem%20is%20a,layers%20to%20the%20earlier%20layers.)
+- [Vanishing Gradient Problem](https://www.youtube.com/watch?v=JIWXbzRXk1I&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=11)
+- [Vanishing Gradient](https://www.engati.com/glossary/vanishing-gradient-problem#:~:text=Vanishing%20gradient%20problem%20is%20a,layers%20to%20the%20earlier%20layers.)
 
