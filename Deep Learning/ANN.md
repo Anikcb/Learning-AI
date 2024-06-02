@@ -12,6 +12,7 @@ This course didn't explain in depth knowledge but the basic flow of Neural netwo
   
 ## Activation Function
 - [Activation Functions - EXPLAINED!](https://youtu.be/s-V7gKrsels?si=Zcq3uXQly8UGY72L)
+- [Activation Functions in Deep Learning | Sigmoid, Tanh and Relu Activation Function](https://www.youtube.com/watch?v=7LcUkgzx3AY&t=87s&ab_channel=CampusX)
 - [Activation function in Neural Network](https://youtu.be/Y9qdKsOHRjA?si=BiyYFfb8DZpGE9O-)
 - [Sigmoid Function](https://youtu.be/TPqr8t919YM?si=tqCBV_SILpkEgMNq)
 - [Relu Variants Explained | Leaky Relu | Parametric Relu | Elu | Selu ](https://www.youtube.com/watch?v=2OwWs7Hzr9g&ab_channel=CampusX)
