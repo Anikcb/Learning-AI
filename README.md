@@ -27,7 +27,7 @@
 **Dimensionality reduction:** Understand methods like Principal Component Analysis (PCA).\
 **Feature engineering:** Explore techniques to create new features for better model performance.
 
-## Introduction to Neural Networks:</ins>
+### <ins>Introduction to Neural Networks:</ins>
 **Basics of neural networks:** Understand the structure, activation functions, and the concept of weights and biases.\
 **Backpropagation:** Learn the algorithm used for training neural networks.
 
