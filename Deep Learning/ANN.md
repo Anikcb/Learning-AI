@@ -21,6 +21,7 @@ This course didn't explain in depth knowledge but the basic flow of Neural netwo
 Gradient descent is an optimization algorithm that's used when training a machine learning model. It's based on a [convex Function](https://youtu.be/7QmGj1_i3MU?si=orUYsv2TKb8tUs54) and tweaks its parameters iteratively to minimize a given function to its local minimum.
 - [Gradient Descent in Neural Networks](https://www.youtube.com/watch?v=7z6yXpYk7sw&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=21&ab_channel=CampusX)
 - [Vanishing Gradient Problem](https://www.youtube.com/watch?v=JIWXbzRXk1I&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=11)
+- [Vanishing Gradient Problem in ANN](https://www.youtube.com/watch?v=uCrevbBh0zM&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=20&ab_channel=CampusX)
 - [Vanishing Gradient](https://www.engati.com/glossary/vanishing-gradient-problem#:~:text=Vanishing%20gradient%20problem%20is%20a,layers%20to%20the%20earlier%20layers.)
 ## Backpropagation
 - [Backpropagation in Deep Learning | Part 1](https://www.youtube.com/watch?v=6M1wWQmcUjQ&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=16&ab_channel=CampusX)
