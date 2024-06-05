@@ -1,5 +1,5 @@
 ### <ins>Understand the Basics of Programming:</ins>
-**Learn a programming language:** Start with Python due to its popularity in AI and data science.
+**Learn a programming language:** Start with Python due to its popularity in AI and data science.\
 **Basics of programming:** Understand variables, data types, loops, and functions.
 
 #### Python Language:
