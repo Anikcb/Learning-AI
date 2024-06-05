@@ -23,7 +23,8 @@ Gradient descent is an optimization algorithm that's used when training a machin
 - [Vanishing Gradient Problem](https://www.youtube.com/watch?v=JIWXbzRXk1I&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=11)
 - [Vanishing Gradient Problem in ANN](https://www.youtube.com/watch?v=uCrevbBh0zM&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=20&ab_channel=CampusX)
 - [Vanishing Gradient](https://www.engati.com/glossary/vanishing-gradient-problem#:~:text=Vanishing%20gradient%20problem%20is%20a,layers%20to%20the%20earlier%20layers.)
-- [Gradient Descent Optimization Techniques](https://medium.com/analytics-vidhya/gradient-descent-optimization-techniques-4316419c5b74)
+### Optimzation in Gradient Decent [[youtube playlist](https://youtube.com/playlist?list=PLKnIA16_RmvYhD5pqAeVu3j_jTjnTJIW2&si=VxjOrf-l0BH5jqxL)]
+- [Adam Optimizer Explained in Detail with Animations](https://www.youtube.com/watch?v=N5AynalXD9g&ab_channel=CampusX)
   
 ## Backpropagation
 - [Backpropagation in Deep Learning | Part 1](https://www.youtube.com/watch?v=6M1wWQmcUjQ&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=16&ab_channel=CampusX)
