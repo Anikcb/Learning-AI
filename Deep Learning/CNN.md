@@ -1,3 +1,4 @@
 1. [What is Convolutional Neural Network (CNN)](https://www.youtube.com/watch?v=hDVFXf74P-U&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=40&ab_channel=CampusX)
 2. [CNN Part 3 | Convolution Operation](https://www.youtube.com/watch?v=cgJx3GvQ5y8&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=42&ab_channel=CampusX)
 3. [Padding & Strides in CNN](https://www.youtube.com/watch?v=btWE6SsdDZA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=43&ab_channel=CampusX)
+4. [Pooling Layer in CNN | MaxPooling in Convolutional Neural Network](https://www.youtube.com/watch?v=DwmGefkowCU&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=44&ab_channel=CampusX)
