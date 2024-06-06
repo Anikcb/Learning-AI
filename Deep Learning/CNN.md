@@ -12,3 +12,4 @@
 
 ### Backpropagation in CNN
 - [Backpropagation in CNN | Part 1 | Deep Learning](https://www.youtube.com/watch?v=RvCCFttGFMY&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=47&ab_channel=CampusX)
+- [CNN Backpropagation Part 2 | How Backpropagation works on Convolution, Maxpooling and Flatten Layers](https://www.youtube.com/watch?v=OoSDzOodY3Y&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=48&ab_channel=CampusX)
