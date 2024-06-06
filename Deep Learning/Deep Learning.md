@@ -1,3 +1,10 @@
+## Basic Flow of Neural Network  
+### `ANN` -> `CNN` -> 
+1. [How does Neural Network Work](https://youtu.be/JkeiEYkLEvM?si=6UqWlhp7bqfjKxVi)
+2. [Activation Functions Part-1](https://youtu.be/SXrXUqDjICA?si=EU00oLzaSSumEP0j)
+3. [How to train Neural Network with BackPropogation](https://youtu.be/mH9GBJ6og5A?si=IScBaTaQlGctcD38)
+4. [How to train MultiLayer Neural Network and Gradient Descent](https://www.youtube.com/watch?v=cxPAvoIbsIk&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=9&ab_channel=KrishNaik)
+
 ## List of Links
 - [Deep Learning best youtube playlist in Hindi - with details explanation](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=9qa1AND0_RlD-L20)***
 - [Udemy Course](https://www.udemy.com/course/deeplearning)<br>
