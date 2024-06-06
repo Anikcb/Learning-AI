@@ -3,3 +3,4 @@
 3. [Padding & Strides in CNN](https://www.youtube.com/watch?v=btWE6SsdDZA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=43&ab_channel=CampusX)
 4. [Pooling Layer in CNN | MaxPooling in Convolutional Neural Network](https://www.youtube.com/watch?v=DwmGefkowCU&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=44&ab_channel=CampusX)
 5. [CNN Architecture](https://www.youtube.com/watch?v=ewsvsJQOuTI&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=45&ab_channel=CampusX)
+6. [Convolutional Neural Networks (CNN) — Architecture Explained](https://medium.com/@draj0718/convolutional-neural-networks-cnn-architectures-explained-716fb197b243)
