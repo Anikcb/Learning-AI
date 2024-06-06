@@ -1,10 +1,3 @@
-## Basic Flow of Neural Network
-This course didn't explain in depth knowledge but the basic flow of Neural network and some topics to understand NN explained prefectly
-1. [How does Neural Network Work](https://youtu.be/JkeiEYkLEvM?si=6UqWlhp7bqfjKxVi)
-2. [Activation Functions Part-1](https://youtu.be/SXrXUqDjICA?si=EU00oLzaSSumEP0j)
-3. [How to train Neural Network with BackPropogation](https://youtu.be/mH9GBJ6og5A?si=IScBaTaQlGctcD38)
-4. [How to train MultiLayer Neural Network and Gradient Descent](https://www.youtube.com/watch?v=cxPAvoIbsIk&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=9&ab_channel=KrishNaik)
-
 ## Chain Rule
 - [Chain Rule of Differentiation with BackPropagation](https://youtu.be/CRB266Eyjkg?si=stZF3GSjHokT2o7K)
 - [Chain Rule Deep Learning Tutorial](https://youtu.be/5ogmEkujoqE?si=CCKQSTUZAG1vJmpU)
