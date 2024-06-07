@@ -16,3 +16,12 @@
 ### Example of CNN
 - [Cat Vs Dog Image Classification Project](https://www.youtube.com/watch?v=0K4J_PTgysc&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=49&ab_channel=CampusX)
 - [What does a CNN see? | Visualizing CNN Filters and Feature Maps](https://www.youtube.com/watch?v=WJysB1RK2vM&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=54&ab_channel=CampusX)
+
+### Transfer Learning
+- [What is Transfer Learning?](https://www.youtube.com/watch?v=WWcgHjuKVqA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=53&ab_channel=CampusX)\
+
+
+
+
+
+
