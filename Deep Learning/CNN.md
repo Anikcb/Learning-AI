@@ -18,8 +18,10 @@
 - [What does a CNN see? | Visualizing CNN Filters and Feature Maps](https://www.youtube.com/watch?v=WJysB1RK2vM&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=54&ab_channel=CampusX)
 
 ### Transfer Learning
-- [What is Transfer Learning?](https://www.youtube.com/watch?v=WWcgHjuKVqA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=53&ab_channel=CampusX)\
+- [What is Transfer Learning?](https://www.youtube.com/watch?v=WWcgHjuKVqA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=53&ab_channel=CampusX)
 
+### Non-Linear Learning
+- [Keras Functional Model | How to build non-linear Neural Networks?](https://www.youtube.com/watch?v=OvQQP1QVru8&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=54&ab_channel=CampusX)
 
 
 
