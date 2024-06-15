@@ -10,3 +10,7 @@
 ### Limitation of RNN
 - [Problems with RNN](https://www.youtube.com/watch?v=AWHSZzp96kM&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=60&ab_channel=CampusX)
 
+### LSTM
+- [What is Long Short Term Memory](https://www.youtube.com/watch?v=z7IPBg6MyrU&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=61&ab_channel=CampusX)
+
+
