@@ -6,3 +6,7 @@
 
 ### Backpropagation of RNN
 - [How Backpropagation works in RNN](https://www.youtube.com/watch?v=OvCz1acvt-k&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=59&ab_channel=CampusX)
+
+### Limitation of RNN
+- [Problems with RNN](https://www.youtube.com/watch?v=AWHSZzp96kM&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=60&ab_channel=CampusX)
+
