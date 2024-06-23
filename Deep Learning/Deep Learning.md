@@ -13,3 +13,6 @@
 - [Deep Learning A-Z Tips and Extra Resources](https://sdsclub.com/deep-learning-a-z-a-z/)<br>
 - [Deep Learning A-Z™: Download Practice Datasets](https://www.tfcertification.com/pages/deep-learning)<br>
 - [ChatGPT for Data Science & Machine Learning: 5 Use Cases](https://www.youtube.com/watch?v=Bw7pAYv6iaM&ab_channel=SuperDataScience)<br>
+
+## Practice 
+- [Deep Learning Practice](https://github.com/Anikcb/Deep-Learning-Practice)
