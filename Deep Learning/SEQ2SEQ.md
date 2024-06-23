@@ -11,3 +11,4 @@
 ### Self Attention
  - [What is self Attention](https://www.youtube.com/watch?v=XnGGmvpDLA0&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=73&ab_channel=CampusX)
  - [Self Attention in Transformers](https://www.youtube.com/watch?v=-tCKPl_8Xb8&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=73&ab_channel=CampusX)
+ - [Scaled Dot Product Attention](https://www.youtube.com/watch?v=r7mAt0iVqwo&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=74&ab_channel=CampusX)
