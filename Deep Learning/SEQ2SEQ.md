@@ -7,6 +7,7 @@
 - [Bahdanau Attention Vs Luong Attention](https://www.youtube.com/watch?v=0hZT4_fHfNQ&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=71)
 ### Transformers
 - [Introduction to Transformers](https://www.youtube.com/watch?v=BjRVS2wTtcA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=72&ab_channel=CampusX)
+<img src="https://github.com/Anikcb/Learning-AI/blob/main/Readme%20Images/transformer.png?raw=true"  width="70%" height="70%">
 
 ### Self Attention
  - [What is self Attention](https://www.youtube.com/watch?v=XnGGmvpDLA0&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=73&ab_channel=CampusX)
