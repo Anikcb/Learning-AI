@@ -15,9 +15,11 @@
 - [What is Long Short Term Memory](https://www.youtube.com/watch?v=z7IPBg6MyrU&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=61&ab_channel=CampusX)
 - [LSTM Architecture](https://www.youtube.com/watch?v=Akv3poqqwI4&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=62&ab_channel=CampusX)
 - [Next Word Predictor Using LSTM](https://www.youtube.com/watch?v=fiqo6uPCJVI&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=63&ab_channel=CampusX)
+<img src="https://github.com/Anikcb/Learning-AI/blob/main/Readme%20Images/LSTM.png?raw=true" width="50%" height="50%">
   
 ### GRU
 - [Gated Recurrent Unit](https://www.youtube.com/watch?v=QQfZAoNGQmE&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=64&ab_channel=CampusX)
+<img src="https://github.com/Anikcb/Learning-AI/blob/main/Readme%20Images/GRU.png?raw=true" width="50%" height="50%">
 
 ### Bidirectional RNN
 - [Bidirectional RNN | BiLSTM | Bidirectional LSTM | Bidirectional GRU](https://www.youtube.com/watch?v=k2NSm3MNdYg&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=66&ab_channel=CampusX)
