@@ -1,6 +1,7 @@
 ### What is CNN?
 - [What is Convolutional Neural Network (CNN)](https://www.youtube.com/watch?v=hDVFXf74P-U&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=40&ab_channel=CampusX)
 - [CNN Part 3 | Convolution Operation](https://www.youtube.com/watch?v=cgJx3GvQ5y8&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=42&ab_channel=CampusX)
+<img src="https://github.com/Anikcb/Learning-AI/blob/main/Readme%20Images/CNN.png?raw=true" width="50%" height="50%">
   
 ### Padding and Polling in CNN
 - [Padding & Strides in CNN](https://www.youtube.com/watch?v=btWE6SsdDZA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=43&ab_channel=CampusX)
