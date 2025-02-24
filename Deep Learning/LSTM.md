@@ -1,5 +1,7 @@
 # LSTM 
-[(Quick Notes)](https://github.com/Anikcb/Learning-AI/blob/main/Notes/LSTM.pdf)
+### Extra
+[Quick Notes](https://github.com/Anikcb/Learning-AI/blob/main/Notes/LSTM.pdf)</br>
+[Research paper](https://arxiv.org/pdf/1409.3215)
 ### Blogs and Github for practice
 - [(Understanding LSTM Networks)](https://colah.github.io/posts/2015-08-Understanding-LSTMs)
 ### Youtube
