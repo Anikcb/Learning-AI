@@ -1,3 +1,5 @@
+## Read Before Start
+- [How I taught myself Deep Learning: Vanilla NNs](https://www.kaggle.com/code/andradaolteanu/how-i-taught-myself-deep-learning-vanilla-nns)
 ## Basic Flow of Neural Network  
 ### `ANN` &rarr; `CNN` &rarr; `RNN` &rarr; `LSTM` &rarr; `GRU` &rarr; `SEQ2SEQ`
 1. [How does Neural Network Work](https://youtu.be/JkeiEYkLEvM?si=6UqWlhp7bqfjKxVi)
