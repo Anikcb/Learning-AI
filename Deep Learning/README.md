@@ -1,5 +1,5 @@
 ## Basic Flow of Neural Network  
-### `ANN` &rarr; `CNN` &rarr; `RNN` &rarr; `SEQ2SEQ`
+### `ANN` &rarr; `CNN` &rarr; `RNN` &rarr; `LSTM` &rarr; `GRU` &rarr; `SEQ2SEQ`
 1. [How does Neural Network Work](https://youtu.be/JkeiEYkLEvM?si=6UqWlhp7bqfjKxVi)
 2. [Activation Functions Part-1](https://youtu.be/SXrXUqDjICA?si=EU00oLzaSSumEP0j)
 3. [How to train Neural Network with BackPropogation](https://youtu.be/mH9GBJ6og5A?si=IScBaTaQlGctcD38)
