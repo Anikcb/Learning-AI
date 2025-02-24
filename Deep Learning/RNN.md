@@ -1,3 +1,4 @@
+# RNN
 ### What is RNN?
 - [Why RNNs are needed | RNNs Vs ANNs](https://www.youtube.com/watch?v=4KpRP-YUw6c&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&ab_channel=CampusX)
 <img src="https://github.com/Anikcb/Learning-AI/blob/main/Readme%20Images/RNN-vs-FNN-660.png?raw=true" width="50%" height="50%">
