@@ -1,7 +1,7 @@
 ## Read Before Start
 - [How I taught myself Deep Learning: Vanilla NNs](https://www.kaggle.com/code/andradaolteanu/how-i-taught-myself-deep-learning-vanilla-nns)
 ## Basic Flow of Neural Network  
-### `ANN` &rarr; `CNN` &rarr; `RNN` &rarr; `LSTM` &rarr; `GRU` &rarr; `SEQ2SEQ`
+### `ANN` &rarr; `CNN` &rarr; `RNN` &rarr; `LSTM` &rarr; `GRU` &rarr; `SEQ2SEQ` &rarr; `Transformers`
 1. [How does Neural Network Work](https://youtu.be/JkeiEYkLEvM?si=6UqWlhp7bqfjKxVi)
 2. [Activation Functions Part-1](https://youtu.be/SXrXUqDjICA?si=EU00oLzaSSumEP0j)
 3. [How to train Neural Network with BackPropogation](https://youtu.be/mH9GBJ6og5A?si=IScBaTaQlGctcD38)
