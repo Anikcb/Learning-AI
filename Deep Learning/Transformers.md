@@ -11,4 +11,5 @@
  - [Positional Encoding in Transformers](https://www.youtube.com/watch?v=GeoQBNNqIbM&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=78&ab_channel=CampusX)
     #### [Linear Relationships in the Transformer’s Positional Encoding](https://blog.timodenk.com/linear-relationships-in-the-transformers-positional-encoding/)
  - [Layer Normalization in Transformers](https://www.youtube.com/watch?v=qti0QPdaelg&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=79&ab_channel=CampusX)
- - [Transformer Architecture](https://www.youtube.com/watch?v=m6onaKFzF94&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=81)
+ - [Transformer Architecture (Encoder)](https://www.youtube.com/watch?v=m6onaKFzF94&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=81)
+ - [Transformer Architecture (Decoder)](https://www.youtube.com/watch?v=DI2_hrAulYo&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=83)
